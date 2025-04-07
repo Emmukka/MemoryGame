@@ -1,12 +1,9 @@
-
-
 img= ["1.jpg","2.jpg","3.jpg","4.jpg","5.jpg","6.jpg","7.jpg","8.jpg","1.jpg","2.jpg","3.jpg","4.jpg","5.jpg","6.jpg","7.jpg","8.jpg"];
 firstImg="";
 firstElement="";
 count=0;
 t= 60;
 winCounter= 8;
-
 
 function randomImg(){
 	for(i=0; i<img.length; i++){
